@@ -9,6 +9,7 @@ Obtaining the **AWS Solutions Architect Associate (SAA)** certification has been
 ## 📚 **1. Resources & Preparation Methods**
 
 ### 🛠️ **Key Resources:**  
+- **Review the official AWS exam guide** : Review it first so you know what to expect : [Link here.](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
 - **Online Courses:** I personally used the famous **[Stéphane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=NEWYEARCAREERFT)** course on Udemy. This one is a must with its clear explanations and practical examples.  
 - **Mock Exams:** I used [DojoTuto](https://dojotuto.com/), they were the closest one from the real exam, 100% worth it !
 - **AWS Official Documentation:** FAQs on key services (EC2, S3, RDS, IAM) are gold.
@@ -35,8 +36,7 @@ Here are the areas you absolutely need to focus on:
 - **Databases (RDS, DynamoDB):** Choosing the right database engine for each use case.  
 - **Monitoring & Logging (CloudWatch, CloudTrail):** Incident detection and alert response.  
 
-## **[➞ I've detailed each sections here 🠔](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/b7ae565215bb5ed74bc712e4f544d3644ca05f3c/Key%20concept%20to%20master%20detailed.md)**
-
+## **[➞ I've detailed each sections here 🠔](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/main/Key%20concept%20to%20master%20detailed.md)
 ---
 
 ## 📊 **3. Exam Breakdown**
@@ -55,7 +55,7 @@ The AWS Solutions Architect Associate exam is divided into four main domains wit
 Also, out of the **65 questions**, **15 are unscored** and are used for testing purposes by AWS.  
 
 The Security part is very important... 
-## **[➞ I've made a full breakdown of each here](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/c84489d5afd4b491623514ba37dae2fd18991122/Detailed%20domains%20SAA.md). 🠔**
+## **[➞ I've made a full breakdown of each here](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/main/Detailed%20domains%20SAA.md). 🠔**
 
 ### 🕒 **Exam Duration:**
 
@@ -113,5 +113,11 @@ If you're preparing for the SAA, or if you're considering it, let me know!
 Feel free to connect with me on LinkedIn: [Kenza In The Cloud](https://www.linkedin.com/in/kenza-in-the-cloud/)
 
 Looking forward to sharing more! ✨
+
+---
+
+
+> **Disclaimer ⚠:**  
+> I am just sharing what have worked for me. 
 
 
