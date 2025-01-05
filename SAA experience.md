@@ -35,7 +35,7 @@ Here are the areas you absolutely need to focus on:
 - **Databases (RDS, DynamoDB):** Choosing the right database engine for each use case.  
 - **Monitoring & Logging (CloudWatch, CloudTrail):** Incident detection and alert response.  
 
-## **➞ I've detailed each sections here 🠔**
+## **[➞ I've detailed each sections here 🠔](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/b7ae565215bb5ed74bc712e4f544d3644ca05f3c/Key%20concept%20to%20master%20detailed.md)**
 
 ---
 
@@ -43,15 +43,20 @@ Here are the areas you absolutely need to focus on:
 
 The AWS Solutions Architect Associate exam is divided into four main domains with the following weighted content percentages:  
 
-- **Domain 1: Design Secure Architectures** (30% of scored content)  
-- **Domain 2: Design Resilient Architectures** (26% of scored content)  
-- **Domain 3: Design High-Performing Architectures** (24% of scored content)  
-- **Domain 4: Design Cost-Optimized Architectures** (20% of scored content)  
+
+| Domain Number | Domain Title                                        | Weighting  | Key Topics to Focus on                                                                                         |
+|---------------|------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------|
+| 🌐 **Domain 1** | **Design Secure Architectures**                      | 30%        | - Access controls & IAM 🎫<br>- Security best practices 🔒<br>- Encryption & data security 🔑                      |
+| ⚙️ **Domain 2** | **Design Resilient Architectures**                   | 26%        | - Scalable architectures 📈<br>- Disaster recovery strategies 🛠️<br>- High availability & fault tolerance 💪    |
+| 🚀 **Domain 3** | **Design High-Performing Architectures**              | 24%        | - Compute and storage scaling ⚡<br>- Network performance & design 🌍<br>- Optimized database solutions 💾        |
+| 💸 **Domain 4** | **Design Cost-Optimized Architectures**              | 20%        | - Cost-effective storage options 💰<br>- Optimized compute & database solutions 🖥️<br>- Network cost strategies 🌐 |
+
+
 
 Also, out of the **65 questions**, **15 are unscored** and are used for testing purposes by AWS.  
 
 The Security part is very important... 
-## **➞ I've made a breakdown of it here. 🠔**
+## **[➞ I've made a full breakdown of each here](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/c84489d5afd4b491623514ba37dae2fd18991122/Detailed%20domains%20SAA.md). 🠔**
 
 ### 🕒 **Exam Duration:**
 

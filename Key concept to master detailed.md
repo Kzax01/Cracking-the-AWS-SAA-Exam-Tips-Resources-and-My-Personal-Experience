@@ -116,4 +116,4 @@
 - [AWS CloudTrail Documentation](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)  
 - [Hands-On Monitoring Labs](https://explore.skillbuilder.aws/)  
 
-☞ Click here to come back to the main guide.
+[☞ Click here to come back to the main guide.](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/b7ae565215bb5ed74bc712e4f544d3644ca05f3c/SAA%20experience.md)
