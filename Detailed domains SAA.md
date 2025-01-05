@@ -69,4 +69,5 @@ The AWS Solutions Architect - Associate exam is divided into four main domains, 
 |                                                 | **4.3**: Design cost-optimized database solutions.                                                           | - Cost-effective databases (DynamoDB, RDS), backup strategies, data retention policies.                                    |               |
 |                                                 | **4.4**: Design cost-optimized network architectures.                                                        | - Network cost optimization (Direct Connect, VPN, CDN), NAT gateways, bandwidth allocation.                               |               |
 
+
 [☞ Click here to come back to the main guide.](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/b7ae565215bb5ed74bc712e4f544d3644ca05f3c/SAA%20experience.md)
