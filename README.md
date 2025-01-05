@@ -37,7 +37,7 @@ Here are the areas you absolutely need to focus on:
 - **Databases (RDS, DynamoDB):** Choosing the right database engine for each use case.  
 - **Monitoring & Logging (CloudWatch, CloudTrail):** Incident detection and alert response.  
 
-## **[➞ I've detailed each sections here 🠔](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/main/Key%20concept%20to%20master%20detailed.md)
+## **[➞ I've detailed each sections here 🠔](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/main/Key%20concept%20to%20master%20detailed.md)**
 ---
 
 ## 📊 **3. Exam Breakdown**
