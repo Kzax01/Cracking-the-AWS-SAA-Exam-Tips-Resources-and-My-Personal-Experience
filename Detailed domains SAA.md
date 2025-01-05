@@ -70,4 +70,4 @@ The AWS Solutions Architect - Associate exam is divided into four main domains, 
 |                                                 | **4.4**: Design cost-optimized network architectures.                                                        | - Network cost optimization (Direct Connect, VPN, CDN), NAT gateways, bandwidth allocation.                               |               |
 
 
-[☞ Click here to come back to the main guide.](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/b7ae565215bb5ed74bc712e4f544d3644ca05f3c/SAA%20experience.md)
+[☞ Click here to come back to the main guide.](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/c84489d5afd4b491623514ba37dae2fd18991122/Detailed%20domains%20SAA.md)
