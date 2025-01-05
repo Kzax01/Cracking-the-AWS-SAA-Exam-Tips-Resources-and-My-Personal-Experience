@@ -52,7 +52,6 @@ The AWS Solutions Architect Associate exam is divided into four main domains wit
 | 💸 **Domain 4** | **Design Cost-Optimized Architectures**              | 20%        | - Cost-effective storage options 💰<br>- Optimized compute & database solutions 🖥️<br>- Network cost strategies 🌐 |
 
 
-
 Also, out of the **65 questions**, **15 are unscored** and are used for testing purposes by AWS.  
 
 The Security part is very important... 
