@@ -11,7 +11,7 @@ Obtaining the **AWS Solutions Architect Associate (SAA)** certification has been
 ### 🛠️ **Key Resources:**  
 - **Review the official AWS exam guide** : Review it first so you know what to expect : [Link here.](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
 - **Online Courses:** I personally used the famous **[Stéphane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/?couponCode=NEWYEARCAREERFT)** course on Udemy. This one is a must with its clear explanations and practical examples.  
-- **Mock Exams:** I used [DojoTuto](https://dojotuto.com/), they were the closest one from the real exam, 100% worth it !
+- **Mock Exams:** I used [TutorialsDojo](https://portal.tutorialsdojo.com/), they were the closest one from the real exam, 100% worth it !
 - **AWS Official Documentation:** FAQs on key services (EC2, S3, RDS, IAM) are gold.
 - **YouTube & Blogs:** Some videos explain complex architectures in a visual and simple way.  I liked this one from **[Be a better Dev-SNS/SQS/EventBridge/Kinesis](https://youtu.be/_bRTlb9b59Y?si=w_LncInY-YUn1JVL)**
 
