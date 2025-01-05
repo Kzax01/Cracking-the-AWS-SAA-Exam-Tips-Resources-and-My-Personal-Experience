@@ -2,6 +2,8 @@
 
 In this guide, we dive deeper into the key AWS services that every aspiring Solutions Architect Associate must master. Whether you're just getting started or preparing for your exam, these insights will help you build a solid foundation and ace the SAA exam! 🚀
 
+![AWS Solution Architect Associate Domains](https://metapi.edu.pk/wp-content/uploads/2023/03/image-2.png)
+
 ---
 
 ## 🛡️ **IAM (Identity and Access Management)**  
@@ -21,7 +23,6 @@ In this guide, we dive deeper into the key AWS services that every aspiring Solu
 **📚 Resources:**
 - [AWS IAM Documentation](https://docs.aws.amazon.com/IAM/latest/UserGuide/)
 - [AWS IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
-- [AWS IAM Hands-On Labs on AWS Skill Builder](https://www.aws.training/)
 
 ---
 
@@ -42,7 +43,6 @@ In this guide, we dive deeper into the key AWS services that every aspiring Solu
 **📚 Resources:**
 - [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/latest/userguide/)
 - [AWS Networking Best Practices](https://aws.amazon.com/architecture/databases/)
-- [Hands-On VPC Labs](https://aws.amazon.com/training/)
 
 ---
 
@@ -63,7 +63,6 @@ In this guide, we dive deeper into the key AWS services that every aspiring Solu
 **📚 Resources:**
 - [AWS S3 Documentation](https://docs.aws.amazon.com/s3/index.html)
 - [AWS S3 Best Practices](https://aws.amazon.com/s3/storage-classes/)
-- [Hands-On S3 Labs](https://aws.amazon.com/training/)
 
 ---
 
@@ -105,7 +104,6 @@ In this guide, we dive deeper into the key AWS services that every aspiring Solu
 **📚 Resources:**
 - [AWS RDS Documentation](https://docs.aws.amazon.com/rds/index.html)
 - [AWS DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb/index.html)
-- [Hands-On Database Labs](https://aws.amazon.com/training/)
 
 ---
 
@@ -126,65 +124,91 @@ In this guide, we dive deeper into the key AWS services that every aspiring Solu
 **📚 Resources:**
 - [AWS CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/index.html)
 - [AWS CloudTrail Documentation](https://docs.aws.amazon.com/cloudtrail/index.html)
-- [Hands-On Monitoring Labs](https://aws.amazon.com/training/)
+
 
 ---
 
-## 🌐 **API Gateway**   
-**Description**: API Gateway allows you to create, publish, maintain, monitor, and secure APIs at scale. It's especially useful for serverless architectures with Lambda.
+### 🌐 API Gateway
+**Description:** API Gateway allows you to create, publish, maintain, monitor, and secure APIs at scale. It's especially useful for serverless architectures with Lambda.
 
 **✅ Tips:**
-- **Stage Variables**: Use stage variables to manage different environments (dev, test, prod).
-- **Caching**: Enable caching for improved API performance.
-- **Lambda Integration**: Integrate API Gateway with Lambda functions for serverless architecture.
+
+- **Stage Variables:** Use stage variables to manage different environments (dev, test, prod).
+- **Caching:** Enable caching for improved API performance.
+- **Lambda Integration:** Integrate API Gateway with Lambda functions for serverless architecture.
 
 **🔗 Key Services:** API Gateway, Lambda, Custom Authorizers, Usage Plans.
 
+**📚 Resources:**
+- [AWS API Gateway Documentation](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
+- [AWS API Gateway Best Practices](https://aws.amazon.com/api-gateway/best-practices/)
+- [AWS Serverless Application Model (SAM) for API Gateway](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/)
+  
 ---
 
-## 🧭 **Route 53 (DNS Service)**   
-**Description**: Route 53 is a scalable and highly reliable Domain Name System (DNS) service. It's used to route user traffic to the correct resources.
+### 🧭 Route 53 (DNS Service)
+**Description:** Route 53 is a scalable and highly reliable Domain Name System (DNS) service. It's used to route user traffic to the correct resources.
 
 **✅ Tips:**
-- **Failover Routing**: Use failover routing to ensure high availability.
-- **Latency-Based Routing**: Direct users to the nearest AWS region for optimal performance.
-- **DNS Health Checks**: Set up health checks for your resources to ensure availability.
+
+- **Failover Routing:** Use failover routing to ensure high availability.
+- **Latency-Based Routing:** Direct users to the nearest AWS region for optimal performance.
+- **DNS Health Checks:** Set up health checks for your resources to ensure availability.
 
 **🔗 Key Services:** Route 53, Health Checks, Latency-Based Routing.
 
+**📚 Resources:**
+- [AWS Route 53 Documentation](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/)
+- [Route 53 DNS Management](https://aws.amazon.com/route53/)
+  
 ---
 
-## 🌱 **Elastic Beanstalk**   
-**Description**: Elastic Beanstalk is a platform as a service (PaaS) for deploying web applications without managing the underlying infrastructure.
+### 🌱 Elastic Beanstalk
+**Description:** Elastic Beanstalk is a platform as a service (PaaS) for deploying web applications without managing the underlying infrastructure.
 
 **✅ Tips:**
-- **Platform Versions**: Choose the correct platform (e.g., Node.js, Python, Java) for your application.
-- **Managed Updates**: Enable managed updates to keep your environment up to date.
+
+- **Platform Versions:** Choose the correct platform (e.g., Node.js, Python, Java) for your application.
+- **Managed Updates:** Enable managed updates to keep your environment up to date.
 
 **🔗 Key Services:** Elastic Beanstalk, Elastic Load Balancer, EC2 instances.
 
+**📚 Resources:**
+- [AWS Elastic Beanstalk Documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+- [Elastic Beanstalk Developer Guide](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb2-deploy.html)
+
 ---
 
-## 🔐 **Key Management Service (KMS)**   
-**Description**: AWS KMS allows you to create and control the encryption keys used to encrypt your data. It helps ensure that sensitive information is protected through robust encryption techniques.
+### 🔐 Key Management Service (KMS)
+**Description:** AWS KMS allows you to create and control the encryption keys used to encrypt your data. It helps ensure that sensitive information is protected through robust encryption techniques.
 
 **✅ Tips:**
-- **Customer Master Keys (CMKs)**: Use CMKs for managing encryption keys. You can choose between **symmetric** and **asymmetric** keys.
-- **Key Rotation**: Enable automatic key rotation for added security.
-- **Integrate with other services**: KMS integrates with many AWS services (e.g., S3, EBS, RDS, Lambda) for seamless encryption at rest.
+
+- **Customer Master Keys (CMKs):** Use CMKs for managing encryption keys. You can choose between symmetric and asymmetric keys.
+- **Key Rotation:** Enable automatic key rotation for added security.
+- **Integrate with other services:** KMS integrates with many AWS services (e.g., S3, EBS, RDS, Lambda) for seamless encryption at rest.
 
 **🔗 Key Services:** KMS, CMKs, IAM, Encryption at Rest.
 
+**📚 Resources:**
+- [AWS KMS Documentation](https://docs.aws.amazon.com/kms/latest/developerguide/)
+- [AWS KMS Best Practices](https://aws.amazon.com/kms/best-practices/)
+
 ---
 
-## 📁  **Elastic File System (EFS)**  
-**Description**: EFS provides scalable file storage that can be shared across multiple EC2 instances seamlessly.
+### 📁 Elastic File System (EFS)
+**Description:** EFS provides scalable file storage that can be shared across multiple EC2 instances seamlessly.
 
 **✅ Tips:**
-- **Performance Modes**: Choose between performance modes (General Purpose, Max I/O) depending on your needs.
-- **Mount Targets**: Use mount targets to access your file system across multiple availability zones.
+
+- **Performance Modes:** Choose between performance modes (General Purpose, Max I/O) depending on your needs.
+- **Mount Targets:** Use mount targets to access your file system across multiple availability zones.
 
 **🔗 Key Services:** EFS, Mount Targets, Security Groups.
+
+**📚 Resources:**
+- [AWS EFS Documentation](https://docs.aws.amazon.com/efs/latest/ug/Welcome.html)
+- [AWS EFS Best Practices](https://aws.amazon.com/efs/)
 
 ---
 
@@ -198,4 +222,4 @@ With these resources and tips, you're well on your way to acing your AWS Solutio
 
 ---
 
-[☞ Click here to come back to the main guide.](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/b7ae565215bb5ed74bc712e4f544d3644ca05f3c/SAA%20experience.md)
+[☞ Click here to come back to the main guide.](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience)
