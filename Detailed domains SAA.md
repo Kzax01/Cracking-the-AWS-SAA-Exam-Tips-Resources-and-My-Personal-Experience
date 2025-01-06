@@ -2,7 +2,10 @@
 
 The AWS Solutions Architect - Associate exam is divided into four main domains, each with a specific weight. Here's a breakdown of these domains and what you should focus on:
 
-<img src="https://www.stationx.net/wp-content/uploads/2024/02/1.-AWS-Solution-Architect-Associate-Domains.png" width="500"/>
+<p align="center">
+  <img src="https://www.stationx.net/wp-content/uploads/2024/02/1.-AWS-Solution-Architect-Associate-Domains.png" width="500"/>
+</p>
+
 
 ---
 
