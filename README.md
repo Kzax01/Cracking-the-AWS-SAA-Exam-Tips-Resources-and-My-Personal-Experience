@@ -14,7 +14,8 @@ Obtaining the **AWS Solutions Architect Associate (SAA)** certification has been
 - **Mock Exams:** I used [TutorialsDojo](https://portal.tutorialsdojo.com/), they were the closest one from the real exam, 100% worth it !
 - **AWS Official Documentation:** FAQs on key services (EC2, S3, RDS, IAM) are gold.
 - **YouTube & Blogs:** Some videos explain complex architectures in a visual and simple way.  I liked this one from **[Be a better Dev-SNS/SQS/EventBridge/Kinesis](https://youtu.be/_bRTlb9b59Y?si=w_LncInY-YUn1JVL)**
-- The AWS Power Hour: Architecting Associate on twitch by  by Aaron Hunter , John Marciniak and John Tuffin, [Link here.](https://pages.awscloud.com/GLOBAL-other-T2-Traincert-AWS-Power-Hour-Architecting-Associate-Season-5-2024-reg.html)
+- **The AWS Power Hour: Architecting Associate on twitch** by Aaron Hunter , John Marciniak and John Tuffin, [Link here.](https://pages.awscloud.com/GLOBAL-other-T2-Traincert-AWS-Power-Hour-Architecting-Associate-Season-5-2024-reg.html)
+- Want some **fun** ? Try the [**AWS Card Clash**](https://aws.amazon.com/fr/training/digital/aws-card-clash/): It's a **FREE** online game about designing architecture with AWS services. 
 
 ### 🧠 **Learning Methods:**  
 - **Active study:** I didn’t just watch videos. I directly applied each concept in practical labs : Used the tuto from Stephane Maarek + AWS Free Tier.  
