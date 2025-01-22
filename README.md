@@ -1,6 +1,6 @@
 # 🚀 **My journey to passing the AWS Solutions Architect Associate certification – Tips and resources**
 
-Obtaining the **AWS Solutions Architect Associate (SAA)** certification has been as rewarding as it was intense. It's not just a badge or another line on my CV; it's a solid validation of my skills and a real leap forward in understanding AWS cloud architectures. Today, I'd like to share my experience, the resources that helped me, the challenges I faced, and of course, some tips for those preparing for this challenge.  
+Obtaining the **AWS Solutions Architect Associate (SAA)** certification has been as rewarding as it was intense. It's not just a badge or another line on my resume; it's a **solid validation of my skills and a real leap forward in understanding AWS cloud architectures**. Today, I'd like to share my experience, the resources that helped me, the challenges I faced, and of course, some tips for those preparing for this challenge.  
 
 ![AWS Solutions Architect - Academy](https://images.ctfassets.net/aq13lwl6616q/5KT85Ukzowb5SdqeJE30uh/2cdab703179a718beae9c4e1864d3376/Course_Thumbnail_-_AWS_Solutions_Architect_-_Academy_2.png)
 
@@ -58,7 +58,7 @@ The AWS Solutions Architect Associate exam is divided into four main domains wit
 
 Also, out of the **65 questions**, **15 are unscored** and are used for testing purposes by AWS.  
 
-The Security part is very important... 
+**The Security part is very important...**
 ## **[➞ I've made a full breakdown of each here](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/main/Detailed%20domains%20SAA.md). 🠔**
 
 ### 🕒 **Exam Duration:**
@@ -79,9 +79,10 @@ You will have **130 minutes** to complete the exam, but you can request an addit
 
 ## 🤔 **5. My post-certification thoughts**
 
-When I received the email confirming my success, it was a mix of relief, pride, and a bit of surprise. It wasn’t just the certification that mattered, but the entire journey that got me here. Every night spent on a lab, every failure on a mock exam, every moment of doubt – it was all part of the learning process.  
+When I received the email confirming my success, it was a mix of **relief, pride, and a bit of surprise**. It wasn’t just the certification that mattered, but the **entire journey** that got me here. Every night spent on a lab, every failure on a mock exam, every moment of doubt 
+– *it was all part of the learning process*.  
 
-This certification not only gave me technical skills but also a real confidence to tackle complex cloud projects.  
+This certification not only gave me technical skills but also **a real confidence** to tackle complex cloud projects.  
 
 ---
 
@@ -96,7 +97,7 @@ This certification not only gave me technical skills but also a real confidence 
 
 ## 🌟 **7. What’s next?**
 
-This certification is an important step, but not the final goal. Next step: **Terraform, Kubernetes, and AWS Security Specialty.** Each new skill will build an even stronger foundation for my future ambitions.  
+This certification is an important step, but not the final goal. Next step: **Terraform and AWS Security Specialty.** Each new skill will build an even stronger foundation for my future ambitions.  
 
 ---
 
