@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3a8e5f70-5110-429d-b5bc-227fc1d45f5b)# 🚀 **My journey to passing the AWS Solutions Architect Associate certification – Tips and resources**
+# 🚀 **My journey to passing the AWS Solutions Architect Associate certification – Tips and resources**
 
 Obtaining the **AWS Solutions Architect Associate (SAA)** certification has been as rewarding as it was intense. It's not just a badge or another line on my resume; it's a **solid validation of my skills and a real leap forward in understanding AWS cloud architectures**. Today, I'd like to share my experience, the resources that helped me, the challenges I faced, and of course, some tips for those preparing for this challenge.  
 
