@@ -2,8 +2,7 @@
 
 Obtaining the **AWS Solutions Architect Associate (SAA)** certification has been as rewarding as it was intense. It's not just a badge or another line on my resume; it's a **solid validation of my skills and a real leap forward in understanding AWS cloud architectures**. Today, I'd like to share my experience, the resources that helped me, the challenges I faced, and of course, some tips for those preparing for this challenge.  
 
-![AWS Solutions Architect - Academy](https://images.ctfassets.net/aq13lwl6616q/5KT85Ukzowb5SdqeJE30uh/2cdab703179a718beae9c4e1864d3376/Course_Thumbnail_-_AWS_Solutions_Architect_-_Academy_2.png)
-
+![BANNER KENZA SAA](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/main/github%20saa%20banner%20kenza.gif)
 ---
 
 ## 📚 **1. Resources & Preparation Methods**
