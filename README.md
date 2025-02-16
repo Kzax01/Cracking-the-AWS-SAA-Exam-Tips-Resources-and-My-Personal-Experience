@@ -60,7 +60,7 @@ The AWS Solutions Architect Associate exam is divided into four main domains wit
 Also, out of the **65 questions**, **15 are unscored** and are used for testing purposes by AWS.  
 
 **The Security part is very important...**
-## **[➞ I've made a full breakdown of each here](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/main/Detailed%20domains%20SAA.md). 🠔**
+## **[➞ I've made a full breakdown of each here](https://github.com/Kzax01/Cracking-the-AWS-SAA-Exam-Tips-Resources-and-My-Personal-Experience/blob/main/Detailed%20domains%20SAA.md)**
 
 ### 🕒 **Exam Duration:**
 
