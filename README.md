@@ -23,8 +23,6 @@ Obtaining the **AWS Solutions Architect Associate (SAA)** certification has been
 - **Regular revision:** I revised my notes every night and consolidated weak points identified during mock exams.  
 - **Exam mindset:** Understand the scenarios in the questions instead of memorizing answers : Explain yourself why this answer is correct ? Then read the correction ✅
 
-### **[➡️ You can also check my AWS e-commerce migration architecture project to get an idea on how services work all together + you learn from my mistake!](https://github.com/Kzax01/AWS-E-commerce-migration-architecture)**
-
 
 ### 💡 I started this journey in September and was able to pass the certification in December, considering I had no real big experience in the cloud, It's definitely doable in 3-4 months. 
 ### Remember, consistancy is key. 🗝️
